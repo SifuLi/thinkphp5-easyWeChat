@@ -3,7 +3,7 @@
 ## 安装
 
 ```shell
-$ composer require "lisifu/thinkphp5-easy_wechat"
+$ composer require "lisifu/thinkphp5-easywechat" dev-master
 ```
 
 基于thinkphp5.1对easyWeChat 4.1的封装并使用tp的cache代替了easyWeChat 缓存方式。
