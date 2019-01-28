@@ -1,0 +1,26 @@
+{
+    "name": "lisifu/thinkphp5-easy_wechat",
+    "description": "简单的easyWeChat在thinkphp5.1中的使用",
+    "type": "think-extend",
+    "extra": {
+        "think-config": {
+            "swoole": "src/config/weixin.php"
+        }
+    },
+    "require": {
+        "php": ">=7.1.0",
+        "topthink/framework": "~5.1",
+        "overtrue/wechat": "~4.1"
+    },
+    "authors": [
+        {
+            "name": "lisifu",
+            "email": "lisifu@139.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ThinkWeChat\\": "src"
+        }
+    }
+}
