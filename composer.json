@@ -4,7 +4,7 @@
     "type": "think-extend",
     "extra": {
         "think-config": {
-            "weixin": "src/config/weixin.php"
+            "weixin": "src/config/weixin"
         }
     },
     "require": {
