@@ -8,6 +8,8 @@ $ composer require "lisifu/thinkphp5-easywechat" dev-master
 
 基于thinkphp5.1对easyWeChat 4.1的封装并使用tp的cache代替了easyWeChat 缓存方式。
 
+**使用时将config/weixin.php文件复制到thinkphp5.1的项目config目录内，并修改里面的配置信息**
+
 ## 用法
 
 基本使用（以服务端为例）:

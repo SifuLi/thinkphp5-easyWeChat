@@ -2,11 +2,6 @@
     "name": "lisifu/thinkphp5-easywechat",
     "description": "简单的easyWeChat在thinkphp5.1中的使用",
     "type": "think-extend",
-    "extra": {
-        "think-config": {
-            "weixin": "src/config/weixin"
-        }
-    },
     "require": {
         "php": ">=7.1.0",
         "topthink/framework": "~5.1",
