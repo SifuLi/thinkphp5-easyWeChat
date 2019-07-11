@@ -1,6 +1,6 @@
 {
   "name": "lisifu/thinkphp5-easywechat",
-  "license": "",
+  "license": "MIT",
   "description": "简单的easyWeChat在thinkphp5.1中的使用",
   "type": "think-extend",
   "require": {
