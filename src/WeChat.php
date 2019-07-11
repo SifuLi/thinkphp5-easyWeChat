@@ -4,12 +4,12 @@
  * 使用方法
  * WeChat::方法()或WeChat::方法($config),默认不用传配置
  *
- * User: lisif
+ * User: lisifu
  * Date: 2019/1/23
  * Time: 17:58
  */
 
-namespace ThinkWeChat;
+namespace lisifu\ThinkWeChat;
 
 use EasyWeChat\MiniProgram\Application as MiniProgram;
 use EasyWeChat\OfficialAccount\Application as OfficialAccount;
@@ -17,7 +17,7 @@ use EasyWeChat\OpenPlatform\Application as OpenPlatform;
 use EasyWeChat\Payment\Application as Payment;
 use EasyWeChat\Work\Application as Work;
 use EasyWeChat\OpenWork\Application as openWork;
-use ThinkWeChat\easyWechat\ThinkCache;
+use lisifu\ThinkWeChat\easyWechat\ThinkCache;
 use think\facade\Config;
 
 /**
