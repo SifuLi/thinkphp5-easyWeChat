@@ -16,7 +16,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "lisifu\\ThinkWeChat\\": "src/"
+      "ThinkWeChat\\": "src/"
     }
   }
 }

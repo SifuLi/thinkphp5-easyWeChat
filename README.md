@@ -28,7 +28,7 @@ $options = [
     // ...
 ];
 
-$app = lisifu\ThinkWeChat\WeChat::officialAccount($options);
+$app = \ThinkWeChat\WeChat::officialAccount($options);
 
 $server = $app->server;
 $user = $app->user;

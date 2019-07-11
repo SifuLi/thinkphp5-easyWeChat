@@ -1,12 +1,12 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: lisifu
+ * User: lisif
  * Date: 2019/1/23
  * Time: 17:48
  */
 
-namespace lisifu\ThinkWeChat\easyWechat;
+namespace ThinkWeChat\easyWechat;
 
 use Psr\SimpleCache\CacheInterface;
 use think\Cache;
